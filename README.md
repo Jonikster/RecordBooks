@@ -1,5 +1,4 @@
 # Record Books v. 1.1
-
 Author: Constantine Ryzhykov constantine.ryzhikov@gmail.com
 
 Release Date: October 5, 2022
